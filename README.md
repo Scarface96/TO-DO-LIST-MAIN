@@ -87,3 +87,7 @@ This project is open source and available under the MIT License.
 ---
 
 Built with ❤️ by [Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A browser-based productivity application for managing everyday tasks through a straightforward interactive interface. It demonstrates JavaScript DOM manipulation, task state handling, user interactions, responsive design and client-side application logic.
