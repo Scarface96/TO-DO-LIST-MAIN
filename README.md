@@ -2,6 +2,8 @@
 
 A feature-rich task management application for organizing and tracking daily tasks and projects.
 
+<p align="center"><img src="docs/images/app.png" alt="To-do list with four tasks, one marked complete"></p>
+
 ## 📋 Overview
 
 A user-friendly to-do list application built with modern web technologies to help you stay organized and productive.
